@@ -1,4 +1,4 @@
-# Novo exercício - 4 e 5
+# Exercício - 4 e 5
 ### Transfira o repositório do seu grupo para um repositório no seu git e execute o requerido.
 #### Nesse exercício foi solicitado:
 - Crie uma nova branch 'develop'
