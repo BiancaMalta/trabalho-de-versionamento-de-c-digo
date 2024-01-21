@@ -42,6 +42,9 @@ git cherry-pick hash do commit amarelo
 git commit -am 'cherry-pick: versão principal'
 ```
 ##### Na main, altere a cor para lilás 
+
+  <img align="right" src="https://github.com/BiancaMalta/trabalho-versionamento-de-codigo/blob/BiancaMalta/exerc%C3%ADcio-4-e-5/Imagem5.png" width="400" height="550" />
+  
 ```
 vi index.html
 git add .
@@ -53,10 +56,11 @@ git revert HEAD~
 git merge develop
 git -am "merge branch 'develop'"
 ```
-##### E para concluir, antes de tirar do local, é necessário configurar os apontamentos, para que o push não vá ao repositório da professora
+##### Para concluir, antes de tirar do local, é necessário configurar os apontamentos, para que o push não vá ao repositório da professora
 ```
 git remote -v
 git remote remove origin
 git remote add origin https://github.com/BiancaMalta/bianca-malta-classe1127/tree/main
 git push origin --all
 ```
+##### E como resultado, cheguei ao html da imagem ao lado
