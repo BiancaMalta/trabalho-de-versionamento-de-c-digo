@@ -9,4 +9,4 @@ git checkout -b perfil-bianca-malta
 vi README.md
 ```
 ##### Por fim, cabe soltar a imaginação dentro do README.md 
-![imagem do resultado](https://github.com/BiancaMalta/BiancaMalta-Classe1127/blob/BiancaMalta/ImagemdoREADME.png)
+![imagem do resultado](https://github.com/BiancaMalta/trabalho-versionamento-de-codigo/blob/BiancaMalta/exerc%C3%ADcio-3/fotoREADME.png)
