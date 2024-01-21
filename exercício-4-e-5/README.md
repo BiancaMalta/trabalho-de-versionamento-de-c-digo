@@ -64,3 +64,5 @@ git remote add origin https://github.com/BiancaMalta/bianca-malta-classe1127/tre
 git push origin --all
 ```
 ##### E como resultado, cheguei ao html da imagem ao lado
+### Link do local que efetuei a atividade
+[Exercício 4 e 5](https://github.com/BiancaMalta/bianca-malta-classe1127)
