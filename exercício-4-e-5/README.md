@@ -33,7 +33,7 @@ git bisect bad
 git log
 ```
 ##### Inclua o hash encontrado no bisect
-![incluindo o hash do commit amarelo](https://github.com/BiancaMalta/BiancaMalta-Classe1127/blob/BiancaMalta/Imagem4.png)
+![incluindo o hash do commit amarelo](https://github.com/BiancaMalta/trabalho-versionamento-de-codigo/blob/BiancaMalta/exerc%C3%ADcio-4-e-5/Imagem4.png)
 ##### Como visto na imagem, a partir da alteração do body, o html saiu da versão desejada (first bad commit). Para criar uma versão principal antes disso, utilize o cherry-pick
 ```
 git bisect reset
