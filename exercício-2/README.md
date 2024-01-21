@@ -9,3 +9,5 @@
 ```
 ##### E a criação de arquivos com a formatação mencionada no código acima para mostrar a funcionalidade do .gitignore
 ![Arquivos sendo ignorados](https://github.com/Herikamachado/classe1127/blob/BiancaMalta/Imagem3.png)
+### Link do local que efetuei a atividade
+[Exercício 2](https://github.com/Herikamachado/classe1127/tree/BiancaMalta)
