@@ -8,8 +8,9 @@
   - Commit 3 -> alterar a cor para amarelo
   - Commit 4 -> alterar o body
   - Commit 5 -> alterar a cor para rosa
-- Encontre o hash do commit que alterou a cor para amarelo
-- Inclua no bisect e criei uma versão principal
+- Supondo que o commit "alterar a cor para amarelo" foi o último correto:
+  - Use o bisect para buscar o first bad commit
+  - Criei uma versão principal sem o bug
 - Na main realize a alteração de cor para lilás
 - Volte para o commit anterior
 - Faça o merge da develop
@@ -26,13 +27,8 @@ git checkout -b develop
 git add .
 git commit -m 'mensagem com especificando o que fez'
 ```
-##### Inicie a busca pelo hash do commit amarelo
-```
-git bisect start
-git bisect bad
-git log
-```
-##### Inclua o hash encontrado no bisect
+##### Suposição de bug
+###### Para longas listas de operações, se torna custoso enontrar a origem do erro. O comando 'bisect' utiliza um algoritmo de pesquisa binária para descobrir qual o commit no histórico do projeto introduziu um "bug". Para utiliza-lo basta informar um commit "bad" (o último da aplicação) e um commit "good" (o que temos certeza que não contém o problema, no caso, o primeiro commit). Então o comando git bisect seleciona um commit entre estes dois pontos extremos e pergunta se o commit selecionado é "bom" ou "ruim". A operação continuará estreitando o intervalo até encontrar o commit exato responsável pela introdução da alteração.
 ![incluindo o hash do commit amarelo](https://github.com/BiancaMalta/trabalho-versionamento-de-codigo/blob/BiancaMalta/exerc%C3%ADcio-4-e-5/Imagem4.png)
 ##### Como visto na imagem, a partir da alteração do body, o html saiu da versão desejada (first bad commit). Para criar uma versão principal antes disso, utilize o cherry-pick
 ```
