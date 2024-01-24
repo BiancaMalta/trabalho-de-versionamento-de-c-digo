@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!---> Exercício XML Solicitado -->
+<cursoAda>
+    <aluna nome="Bianca">
+        <filme>
+            <primeiro>
+                <título>Gasparzinho, o Fantasminha Camarada</título>
+                <ano-de-lançamento>23 de junho de 1995</ano-de-lançamento>
+                <elenco>Christina Ricci, Bill Pullman, Cathy Moriarty e Eric Idle</elenco>
+                <gênero>Comédia dramática</gênero>
+                <sinopse>Gasparzinho é um fantasminha camarada que tenta gentilmente assombrar uma mansão no estado do Maine. Ele se apaixona por Kat, uma humana cujo pai tenta se comunicar com espíritos</sinopse>
+            </primeiro>
+            <segundo>
+                <título>Os 101 Dálmatas</título>
+                <ano-de-lançamento>27 de novembro de 1996</ano-de-lançamento>
+                <elenco>Glenn Close, Jeff Daniels, Joely Richardson e Joan Plowright
+                </elenco>
+                <gênero>Aventura/Comédia</gênero>
+                <sinopse>A estilista Anita e Roger, um escritor de jogos de computadores, se encontram, se apaixonam e se casam, juntamente com seus dálmatas Pongo e Perdita. Os filhotes dos cães são sequestrados pela chefe de Anita, Cruella De Vil, que está roubando filhotes de dálmatas para fazer o casaco pelo qual ela está apaixonada. Pongo e Perdita tentam encontrar e salvar todos os noventa e nove filhotes de seus terríveis captores.</sinopse>
+            </segundo>
+            <terceiro>
+                <título>Matilda</título>
+                <ano-de-lançamento>24 de janeiro de 1997</ano-de-lançamento>
+                <elenco>Mara Wilson, Danny DeVito, Rhea Perlman, Embeth Davidtz, Pam Ferris e Brian Levinson</elenco>
+                <gênero>Comédia dramática</gênero>
+                <sinopse>Matilda é uma criança brilhante que cresceu ignorada pelos pais, a ponto de esquecerem de matriculá-la na escola. Quando a menina descobre que possui poderes mágicos e seu pai a manda estudar, ela precisa proteger os colegas da malvada diretora.</sinopse>
+            </terceiro>
+       </filme>
+        <livro>
+            <primeiro>    
+                <título>O Cachorrinho Samba</título>
+                <autor>Maria José Dupré</autor>
+                <ano-de-lançamento>1949</ano-de-lançamento>
+                <gênero>Ficção</gênero>
+                <num-de-pag>128 páginas</num-de-pag>
+            </primeiro>
+            <segundo>
+                <título>O amigo invisível</título>
+                <autor>Maria Letícia</autor>
+                <ano-de-lançamento>1 dezembro 2004</ano-de-lançamento>
+                <gênero>Ficção</gênero>
+                <num-de-pag>152 páginas</num-de-pag>
+            </segundo>
+            <terceiro>
+                <título>Extraordinário</título>
+                <autor>R. J. Palacio</autor>
+                <ano-de-lançamento>14 de fevereiro de 2012</ano-de-lançamento>
+                <gênero>Comédia dramática</gênero>
+                <num-de-pag>320 páginas</num-de-pag>
+            </terceiro>
+        </livro>
+        <comida>
+            <primeira>
+                <nome>Bolinho de espinafre</nome>
+                <ingredientes>1 maço de espinafre, 2 ovos, 1/2 cebola pequena, 1 xícara de farinha de trigo e sal a gosto.</ingredientes>
+            </primeira>    
+            <segunda>
+                <nome>Brócolis gratinado</nome>
+                <ingredientes>800g de brócolis, 2 dentes de alho, 2 colheres de farinha de trigo, 1 caixa de creme de leite, 2 colheres de manteiga, 1 cebola média, 2 xícaras de leite, 150g de requeijão cremoso, queijo parmesão e sal a gosto.</ingredientes>
+            </segunda>    
+        </comida>
+    </aluna>
+</cursoAda>
