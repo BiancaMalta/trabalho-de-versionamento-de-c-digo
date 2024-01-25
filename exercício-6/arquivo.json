@@ -1,0 +1,62 @@
+{
+  "cursoAda": {
+    "aluna": {
+      "filme": {
+        "primeiro": {
+          "título": "Gasparzinho, o Fantasminha Camarada",
+          "ano-de-lançamento": "23 de junho de 1995",
+          "elenco": "Christina Ricci, Bill Pullman, Cathy Moriarty e Eric Idle",
+          "gênero": "Comédia dramática",
+          "sinopse": "Gasparzinho é um fantasminha camarada que tenta gentilmente assombrar uma mansão no estado do Maine. Ele se apaixona por Kat, uma humana cujo pai tenta se comunicar com espíritos"
+        },
+        "segundo": {
+          "título": "Os 101 Dálmatas",
+          "ano-de-lançamento": "27 de novembro de 1996",
+          "elenco": "Glenn Close, Jeff Daniels, Joely Richardson e Joan Plowright",
+          "gênero": "Aventura/Comédia",
+          "sinopse": "A estilista Anita e Roger, um escritor de jogos de computadores, se encontram, se apaixonam e se casam, juntamente com seus dálmatas Pongo e Perdita. Os filhotes dos cães são sequestrados pela chefe de Anita, Cruella De Vil, que está roubando filhotes de dálmatas para fazer o casaco pelo qual ela está apaixonada. Pongo e Perdita tentam encontrar e salvar todos os noventa e nove filhotes de seus terríveis captores."
+        },
+        "terceiro": {
+          "título": "Matilda",
+          "ano-de-lançamento": "24 de janeiro de 1997",
+          "elenco": "Mara Wilson, Danny DeVito, Rhea Perlman, Embeth Davidtz, Pam Ferris e Brian Levinson",
+          "gênero": "Comédia dramática",
+          "sinopse": "Matilda é uma criança brilhante que cresceu ignorada pelos pais, a ponto de esquecerem de matriculá-la na escola. Quando a menina descobre que possui poderes mágicos e seu pai a manda estudar, ela precisa proteger os colegas da malvada diretora."
+        }
+      },
+      "livro": {
+        "primeiro": {
+          "título": "O Cachorrinho Samba",
+          "autor": "Maria José Dupré",
+          "ano-de-lançamento": 1949,
+          "gênero": "Ficção",
+          "num-de-pag": "128 páginas"
+        },
+        "segundo": {
+          "título": "O amigo invisível",
+          "autor": "Maria Letícia",
+          "ano-de-lançamento": "1 dezembro 2004",
+          "gênero": "Ficção",
+          "num-de-pag": "152 páginas"
+        },
+        "terceiro": {
+          "título": "Extraordinário",
+          "autor": "R. J. Palacio",
+          "ano-de-lançamento": "14 de fevereiro de 2012",
+          "gênero": "Comédia dramática",
+          "num-de-pag": "320 páginas"
+        }
+      },
+      "comida": {
+        "primeira": {
+          "nome": "Bolinho de espinafre",
+          "ingredientes": "1 maço de espinafre, 2 ovos, 1/2 cebola pequena, 1 xícara de farinha de trigo e sal a gosto."
+        },
+        "segunda": {
+          "nome": "Brócolis gratinado",
+          "ingredientes": "800g de brócolis, 2 dentes de alho, 2 colheres de farinha de trigo, 1 caixa de creme de leite, 2 colheres de manteiga, 1 cebola média, 2 xícaras de leite, 150g de requeijão cremoso, queijo parmesão e sal a gosto."
+        }
+      }
+    }
+  }
+}
